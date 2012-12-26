@@ -9,7 +9,7 @@
 
 	<name>mybatis integration for joda time framework</name>
 	<description>This stores all DateTimes in the database in UTC time.</description>
-	<url>https://github.com/LukeL99/joda-time-mybatis</url>
+	<url>https://github.com/dmolina/joda-time-mybatis</url>
 	<build>
 	<plugins>
       <plugin>
@@ -20,6 +20,16 @@
           <source>1.5</source>
           <target>1.5</target>
 	</configuration>
+    </plugin>
+<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.4</version>
+      </plugin>
+<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.4</version>
       </plugin>
   </plugins>
 </build>
