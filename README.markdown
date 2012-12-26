@@ -1,6 +1,7 @@
 ## Note
 
-* Looking for a new maintainer for this project. I no longer use Joda or Mybatis at my job, so my drive to update this project is low. Contact me if interested.
+* Luka was looking for a new maintainer for his project (https://github.com/LukeL99/joda-time-mybatis). I was not sure if I could tackle it. However, 
+for my teaching courses, I needed this library working.
 
 ## Comments
 
